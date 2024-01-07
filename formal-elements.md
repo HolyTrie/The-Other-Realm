@@ -1,18 +1,17 @@
 <div dir='rtl' lang='he'>
 
-# כותרת ראשית: שם המשחק
+# The Other Realm
 
-**tagline: משפט שיווקי קצר וקליט המתאר את המשחק**
+**Join a family adventure set in another realm and help them unvravel the mystery it holds**
 
 ## מהות המשחק
 
-תארו את הרעיון המרכזי של המשחק שלכם
-(concept) 
-בשלושה-ארבעה משפטים.
+You are taking the role of the Brendan, the twelve year old boy in the family and are tasked with different kind of hurdles like death,danger,foes and meeting all kinds of friends! </br>
+During your time in the other realm you will be tasked with finding your siblings and will have to work togehter to find a way home to your parents.
 
-לאיזה פלטפורמה מיועד המשחק שלכם (כגון: מחשב רגיל / טלפון נייד / אינטרנט)?
+The game will be developed for PC players
 
-שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם.
+שימו כאן ציור-מסך המתאר את המשחק כפי שאתם רואים אותו בדמיון שלכם. - TBD
 
 ---
 

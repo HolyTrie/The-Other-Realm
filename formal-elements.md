@@ -4,7 +4,7 @@
 
 **Join a family adventure set in another realm and help them unvravel the mystery it holds**
 
-## מהות המשחק
+## Games Purpose
 
 You are taking the role of the Brendan, the twelve year old boy in the family and are tasked with different kind of hurdles like death,danger,foes and meeting all kinds of friends! </br>
 During your time in the other realm you will be tasked with finding your siblings and will have to work togehter to find a way home to your parents.
@@ -16,16 +16,16 @@ The game will be developed for PC players
 ---
 
 
-## רכיבים רשמיים
+## Formal Elements
 
 
 ### 1. Players
-The game is intened for family audience (Ages of 12+), and will require little knowledge in video games and in how to navigate in open world. </br>
-The game is a single player campaign that is intended for one person only. </br>
+* The game is intened for family audience (Ages of 12+), and will require little knowledge in video games and in how to navigate in open world. </br>
+* The game is a single player campaign that is intended for one person only. </br>
 
 ### 2. Goals
 * To beat the game, the player will have to venture deep in order to find his siblings and defeat monsters and overcame obstacles to return home which will be the ending. </br>
-* As the siblings are sucked into a "realm" which is actually a book, the player will have to use the book in order to know where to go next ( Each chapter of the book describes a situtation the player is in ) </br> 
+* As the siblings are teleported into a "realm" which is actually a book, the player will have to use the book in order to know where to go next ( Each chapter of the book describes a situtation the player is in ) </br> 
 
 ### 3. תהליכים
 

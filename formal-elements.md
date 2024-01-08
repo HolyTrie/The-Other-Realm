@@ -18,22 +18,14 @@ The game will be developed for PC players
 
 ## רכיבים רשמיים
 
-ענו על השאלות הבאות לגבי הרכיבים הרשמיים של המשחק
-(החליפו את הטקסט של השאלות בתשובות שלכם).
 
-המחישו את התשובות שלכם בעזרת ציורי-מסך.
+### 1. Players
+The game is intened for family audience (Ages of 12+), and will require little knowledge in video games and in how to navigate in open world. </br>
+The game is a single player campaign that is intended for one person only. </br>
 
-### 1. שחקנים
-
-* לאילו שחקנים מיועד המשחק שלכם (איזה גילים / רמת כישרון / רמת ניסיון / תחומי עניין)?
-* לכמה שחקנים מיועד המשחק?
-* מה יהיו דפוסי האינטראקציה בין השחקנים (שיתופי / תחרותי)?
-
-### 2. יעדים
-
-* מה הם היעדים שהשחקן צריך להשיג כדי לנצח במשחק?
-* איך המשחק יודיע לשחקן את היעדים שלו? 
-
+### 2. Goals
+* To beat the game, the player will have to venture deep in order to find his siblings and defeat monsters and overcame obstacles to return home which will be the ending. </br>
+* As the siblings are sucked into a "realm" which is actually a book, the player will have to use the book in order to know where to go next ( Each chapter of the book describes a situtation the player is in ) </br> 
 
 ### 3. תהליכים
 

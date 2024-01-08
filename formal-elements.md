@@ -71,19 +71,15 @@ as of navigation, when the player will mark a point on the map, there will be a 
 
 ---
 
-## סקר שוק
+## Market Survey
+ We searched in few categories, first narnia inspired games, second being sibling adventure games, and latter being teleported to another world games. </br>
+[Chronicles of Narnia: The Lion, The Witch and The Wardrobe](https://www.youtube.com/watch?v=rCvNb9CFjGs&ab_channel=%E2%98%85WishingTikal%E2%98%85) </br>
+[Kya:Dark Lineage](https://www.youtube.com/watch?v=61oZfRKJaV8)  </br>
+[Forspoken](https://store.steampowered.com/app/1680880/Forspoken/) </br>
+[Assassin's Creed](https://en.wikipedia.org/wiki/Assassin%27s_Creed) </br>
+[It takes Two](https://store.steampowered.com/app/1426210/It_Takes_Two/) </br>
 
-לפני שמתחילים לעבוד על משחק (או כל מוצר אחר), חשוב לוודא שלא עשו את זה קודם. לא נעים לעבוד סמסטר שלם (או שנה שלמה) על משחק ואז לגלות שכבר יש משחק כזה. 
-
-חפשו בגוגל, בחנות play, בפייסבוק, ובכל מקום אחר שיש לכם גישה אליו, משחקים דומים לרעיון שלכם. ציינו באיזה ביטויי-חיפוש השתמשתם.
-
-זהו את שלושת המשחקים הדומים ביותר. לגבי כל אחד מהם:
-
-* שימו קישור וצילום-מסך להמחשה.
-* הסבירו מה תעשו כדי שהמשחק שלכם יהיה שונה/מקורי/מיוחד/טוב יותר מהמתחרים?  מדוע שחקנים יעדיפו דווקא את המשחק שלכם?
-
-מבין הרכיבים הרשמיים, 
-איזה רכיב (או רכיבים) ידגיש ביותר את הייחוד והמקוריות של המשחק שלכם, לעומת משחקים דומים הקיימים בשוק?
-
+the 3 most similar to the game we plan to create are Kya, Narnia and Forspoken for the idea they hold, in those games the players are teleported to another realm by accident.
+our game will attempt to be a more dated and family oriented game that will mix into it a unique story with some fun aspects to it, such as puzzles and secrets to find.
 
 </div>

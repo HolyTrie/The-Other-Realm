@@ -43,11 +43,11 @@ The game will be developed for PC players
 * every action the player does in the game will have effect (negative or positive) such as helping a NPC will give the player rewards, failing jump over a clif will result in the player falling down to the abyss.
 
 ### 5. Resources
-* As the game is family friendly, there wont be alot of resources only the simple ones - Health, Stamina and Exp.
-* Stamina is required for jumping, running and fighting, the player will have to resourcfuly use it during combat encounters as it takes a while to regenrate, Exp is for leveling up your player, it will involve in opening new skills and perks each level.
-* Stamina is auto regenrated, Health can be aquired by talking to a healer during the voyage, or using Health Potions that the player can find in chests or from monster drops.
-* By design getting exp in order to level up the character will be that easy, the player will have to make sure he completes side quests and to help the local community he encounters during the search for his siblings.
-* The resources will be displayed for the player as a part of the HUD, and they will be explained during the tutorial.
+* As the game is family friendly, there wont be alot of resources only the simple ones - Health, Stamina and Exp. </br>
+* Stamina is required for jumping, running and fighting, the player will have to resourcfuly use it during combat encounters as it takes a while to regenrate, Exp is for leveling up your player, it will involve in opening new skills and perks each level. </br>
+* Stamina is auto regenrated, Health can be aquired by talking to a healer during the voyage, or using Health Potions that the player can find in chests or from monster drops. </br>
+* By design getting exp in order to level up the character will not be that easy, the player will have to make sure he completes side quests and to help the local community he encounters during the search for his siblings. </br>
+* The resources will be displayed for the player as a part of the HUD, and they will be explained during the tutorial. </br>
 
 ### 6. עימותים
 
@@ -58,22 +58,16 @@ The game will be developed for PC players
 * בין השחקן לעצמו (דילמות)? 
 
 
-### 7. גבולות
-
-מה יהיו הגבולות של עולם המשחק? האם העולם יהיה - 
-* סגור או פתוח?
-*  עגול או שטוח? 
-
- איך המשחק יראה לשחקן את הגבולות? 
+### 7. Boundaries
+* The game will consist of an open world where the player can explore many villages and cities. </br>
+* The boundaries of the game will be of natural manner, such as vast open sea that surrounds a city, steep mountains that the player can't possibly climb and cliffs that will be present an option to jump from, but at what cost? :)  
+* The game will have a map that will tell the player where he is at any given time, it will highlight Points of interest that the player can explore (and should) </br>
+as of navigation, when the player will mark a point on the map, there will be a auto generated course to the location the player wants to go. </br>
  
- הסבירו איך המפה שלכם מקיימת את עקרונות התיכנון: משמעות, ניידות, התמצאות, עניין, והכוונה.
 
-
-### 8. תוצאות
-
-* כמה תוצאות אפשריות יהיו למשחק, ומה הן יהיו? 
-* עד כמה התוצאה תלויה במזל לעומת כישרון? 
-* האם המשחק יהיה "סכום אפס", שיתופי, או מורכב?
+### 8. Reults
+* There will be two possible outcomes to the game - returning home to reunite with the family or staying in the realm with your siblings.
+* Two of the outcomes are achievable by any means, at the end, the player will be presented with the option to stay at the realm to help the locals with their ongoing crisis or to return home to his parents. 
 
 ---
 

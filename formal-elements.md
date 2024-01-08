@@ -38,20 +38,16 @@ The game will be developed for PC players
 
 איך השחקן ילמד על התהליכים? 
 
-### 4. חוקים
+### 4. Rules
+* The rules in the game will consist of how to move, how to climb, who are your enemies which you can attack and who are your friendly character which you can not attack, they will be explained during the game or if the player will want during a built in tutorial that will express the simple mechanics of the game.
+* every action the player does in the game will have effect (negative or positive) such as helping a NPC will give the player rewards, failing jump over a clif will result in the player falling down to the abyss.
 
-* איזה חוקים יגבילו את פעולות השחקן במשחק?
-* לפי איזה חוקים ייקבעו תוצאות של פעולות במשחק?
-* איך השחקן ילמד את חוקי המשחק?
-
-
-### 5. משאבים
-
-* מה יהיו המשאבים במשחק?
-* איך המשאבים הללו יועילו לשחקן?
-* איך השחקן יוכל להשיג משאבים?
-* איך עיצוב המשחק יגרום לכך שהמשאבים יהיו נדירים (שלא יהיה קל מדי להשיג אותם)?
-* איך המשחק יודיע לשחקן מה הם המשאבים במשחק, וכמה משאבים יש לו בכל רגע?
+### 5. Resources
+* As the game is family friendly, there wont be alot of resources only the simple ones - Health, Stamina and Exp.
+* Stamina is required for jumping, running and fighting, the player will have to resourcfuly use it during combat encounters as it takes a while to regenrate, Exp is for leveling up your player, it will involve in opening new skills and perks each level.
+* Stamina is auto regenrated, Health can be aquired by talking to a healer during the voyage, or using Health Potions that the player can find in chests or from monster drops.
+* By design getting exp in order to level up the character will be that easy, the player will have to make sure he completes side quests and to help the local community he encounters during the search for his siblings.
+* The resources will be displayed for the player as a part of the HUD, and they will be explained during the tutorial.
 
 ### 6. עימותים
 

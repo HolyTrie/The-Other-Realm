@@ -7,5 +7,5 @@ For further details see [Formal Elements](https://github.com/HolyTrie/The-Other-
 
 The game will be developed for PC players. </br>
 
-Prompt: todo
+Prompt: the picture shows the three siblings together before they are teleport to the other world!
 ![pixlr-image-generator-5c98163a-8b5b-480f-b5f3-881993289561](https://github.com/HolyTrie/The-Other-Realm/assets/73894107/590cba7e-a090-4395-98af-36071be85317)

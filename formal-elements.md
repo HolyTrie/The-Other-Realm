@@ -6,7 +6,7 @@
 
 ## About the game
 
-You are taking the role of the Brendan, the twelve year old boy in the family and are tasked with different kind of hurdles like death,danger,foes and meeting all kinds of friends! </br>
+You are taking the role of Brendan, the twelve year old boy in the family and are tasked with different kind of hurdles like death,danger,foes and meeting all kinds of friends! </br>
 During your time in the other realm you will be tasked with finding your siblings and will have to work togehter to find a way home to your parents.
 
 The game will be developed for PC players

@@ -5,12 +5,11 @@ public class ToNextScene : MonoBehaviour
 {
     // Start is called before the first frame update
     [SerializeField] string sceneName;
-    private void OnTriggerStay(Collider other)
+    private void OnTriggerEnter(Collider other)
     {
         if (other.tag == "Player")
         {
-            if (Input.GetKeyDown(KeyCode.E))
-                SceneManager.LoadScene(sceneName);
+            SceneManager.LoadScene(sceneName);
         }
     }
 }

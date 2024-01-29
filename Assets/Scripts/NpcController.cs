@@ -13,13 +13,13 @@ public class NpcController : MonoBehaviour
     bool is_talking = false;
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
     private void OnTriggerStay(Collider other)
@@ -30,11 +30,11 @@ public class NpcController : MonoBehaviour
             {
                 is_talking = true;
                 dialogue.StartDialogue();
-                
+
             }
-            if(!dialogue.isActiveAndEnabled)
+            if (!dialogue.isActiveAndEnabled)
                 is_talking = false;
-            
+
         }
     }
 }

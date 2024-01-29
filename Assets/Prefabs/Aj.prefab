@@ -87,6 +87,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 1339101018200438765, guid: 0da146874660c8347bdbd4276a8788c0, type: 3}
+      propertyPath: m_TagString
+      value: PlayerLegs
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
     - {fileID: 825894089210680117, guid: 0da146874660c8347bdbd4276a8788c0, type: 3}

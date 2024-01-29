@@ -15,9 +15,9 @@ public class Dialogue : MonoBehaviour
     void Update()
     {
         // this simply speeds the dialogue up.
-        if(Input.GetMouseButtonDown(0))
+        if (Input.GetMouseButtonDown(0))
         {
-            if(textComponenet.text == lines[index])
+            if (textComponenet.text == lines[index])
             {
                 NextLine();
             }
@@ -42,13 +42,13 @@ public class Dialogue : MonoBehaviour
         foreach (char c in lines[index].ToCharArray())
         {
             textComponenet.text += c;
-            yield return new WaitForSeconds(textSpeed); 
+            yield return new WaitForSeconds(textSpeed);
         }
     }
 
     void NextLine()
     {
-        if (index < lines.Length -1)
+        if (index < lines.Length - 1)
         {
             index++;
             textComponenet.text = string.Empty;

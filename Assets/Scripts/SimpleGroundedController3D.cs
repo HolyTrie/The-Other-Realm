@@ -35,41 +35,25 @@ public class SimpleGroundedController3D : MonoBehaviour
         // Keyboard events are tested each frame, so we should check them here.
         if (Input.GetKeyDown(KeyCode.Space))
             playerWantsToJump = true;
-
-        if (vertcialSpeed > 0 || horizontalSpeed > 0)
-        {
-            _animator.SetBool("Walking", true);
-        }
-        else
-        {
-            _animator.SetBool("Walking", false);
-        }
-
-
-        WalkPosition();
+        //  WalkPosition();
     }
 
     // this controls the player when he rotates or walks//
     void WalkPosition()
     {
-        vertcialSpeed = Input.GetAxis("Vertical") * _speed;
-        horizontalSpeed = Input.GetAxis("Horizontal") * RotateSpeed;
-        vertcialSpeed *= Time.deltaTime;
-        horizontalSpeed *= Time.deltaTime;
+        vertcialSpeed = Input.GetAxis("Vertical") * _speed * Time.deltaTime;
+        horizontalSpeed = Input.GetAxis("Horizontal") * RotateSpeed * Time.deltaTime;
         transform.Translate(0, 0, vertcialSpeed);
         transform.Rotate(0, horizontalSpeed, 0);
-
     }
 
     void FixedUpdate()
     {
+        WalkPosition();
         // Handle jump.
         // NOTE: If instructed to jump, we'll check if we're grounded.
         if (playerWantsToJump && touchDetector.IsTouching())
             rigidBody.AddForce(Vector3.up * JumpImpulse, ForceMode.Impulse);
-
-        // Set velocity.
-        rigidBody.velocity = new Vector3(horizontalSpeed, rigidBody.velocity.y, vertcialSpeed);
 
         // Reset movement.
         playerWantsToJump = false;

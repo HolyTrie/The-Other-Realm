@@ -1,27 +1,11 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class NpcController : MonoBehaviour
 {
-    // Start is called before the first frame update
-
     [SerializeField] Dialogue dialogue;
-
     bool is_talking = false;
-    void Start()
-    {
 
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
-    }
-
+    //if the player presses "E" it will invoke a talking with the character//
     private void OnTriggerStay(Collider other)
     {
         if (other.tag == "Player")
@@ -30,11 +14,9 @@ public class NpcController : MonoBehaviour
             {
                 is_talking = true;
                 dialogue.StartDialogue();
-
             }
             if (!dialogue.isActiveAndEnabled)
                 is_talking = false;
-
         }
     }
 }

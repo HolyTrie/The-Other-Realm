@@ -1,7 +1,4 @@
 using System.Collections;
-using System.Collections.Generic;
-using TMPro;
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class HeadKill : MonoBehaviour
@@ -9,15 +6,15 @@ public class HeadKill : MonoBehaviour
     [SerializeField] float minImpulseForExplosion = 1.0f;
     [SerializeField] float explosionEffectTime = 0.68f;
     private Rigidbody rb;
-    Animator _animator;
+    private Animator _animator;
 
     void Start()
     {
         rb = this.gameObject.GetComponent<Rigidbody>();
         _animator = this.gameObject.GetComponent<Animator>();
-
     }
 
+    //method as shown in class, when he jump on enemy head it will "die"
     private void OnCollisionEnter(Collision collision)
     {
         // In 3D, the Collision object contains an .impulse field.
@@ -39,8 +36,9 @@ public class HeadKill : MonoBehaviour
 
     IEnumerator Explosion()
     {
-
         yield return new WaitForSeconds(explosionEffectTime);
+        GameManager.Instance.AddDefeatedEnemy(); // the game manager is singelton that counts for now how many enemies defeated are there//
+        Debug.Log("EnemyCOUNT:" + GameManager.Instance.EnemyCount);
         Destroy(this.gameObject);
     }
 
